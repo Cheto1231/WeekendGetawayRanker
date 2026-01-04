@@ -1,0 +1,11 @@
+Top weekend getaways from Delhi:
+           Place      City        State  Distance_km  Rating  Popularity     Score
+0       Agra Fort       Agra  Uttar Pradesh     203.45     4.7        950  0.9321
+1    Jaipur Palace     Jaipur      Rajasthan     270.12     4.6        870  0.8903
+2   Neemrana Fort    Neemrana      Rajasthan     120.34     4.5        800  0.8652
+3  Rishikesh River   Rishikesh   Uttarakhand     240.78     4.4        760  0.8402
+4   Jim Corbett NP  Ramnagar  Uttarakhand     300.15     4.5        720  0.8254
+
+Top weekend getaways from Mumbai:
+            Place      City        State  Distance_km  Rating  Popularity     Score
+0       Lonavala
