@@ -1,0 +1,11 @@
+Match_ID,Year,Team_1,Team_2,Winner,Venue,City,Country,Runs_Team1,Runs_Team2
+1,1999,India,Pakistan,India,Eden Gardens,Kolkata,India,250,200
+2,2003,Australia,India,Australia,Johannesburg,Johannesburg,South Africa,270,250
+3,2007,India,Australia,Australia,Barbados,Bridgetown,West Indies,280,260
+4,2011,India,Sri Lanka,India,Wankhede,Mumbai,India,275,240
+5,2015,Australia,India,Australia,MCG,Melbourne,Australia,260,240
+6,2019,India,Australia,India,Oval,London,England,300,280
+7,2023,India,Australia,India,Ahmedabad,Ahmedabad,India,320,280
+8,2011,Sri Lanka,India,India,Wankhede,Mumbai,India,290,250
+9,2019,India,England,England,Lords,London,England,240,245
+10,2023,India,New Zealand,India,Mumbai,Mumbai,India,310,280
